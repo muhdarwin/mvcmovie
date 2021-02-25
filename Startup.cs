@@ -16,7 +16,6 @@ namespace MvcMovie
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
-            //Halo
         }
 
         public IConfiguration Configuration { get; }
